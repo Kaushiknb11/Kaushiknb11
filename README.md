@@ -1,8 +1,9 @@
 # Hi, I'm Kaushik 👋
 
 🎓 Data Scientist | Engineer | ML Enthusiast  
-🌱 Learning about scalable ML pipelines & cloud infra  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaushiknb11)
+🌱 Learning about scalable ML pipelines & cloud infra
+![Profile Views](https://komarev.com/ghpvc/?username=kaushiknb11&style=flat-square)
+
 
 ---
 
