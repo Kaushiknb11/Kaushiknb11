@@ -3,8 +3,6 @@
 🎓 Data Engineer | Data Scientist | ML Enthusiast  
 🌱 Learning about scalable ML pipelines & cloud infra
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaushiknb11&style=flat-square)
-
 
 ---
 
