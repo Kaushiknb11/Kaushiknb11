@@ -8,9 +8,9 @@
 
 ## 🚀 Tech Stack
 - **Programming Languages:** Python, R, Scala, SQL, Java
-- **Data Engineering:** ETL Processes, Data Warehousing, Data Modeling, Apache NiFi, Informatica PowerCenter, Apache Flink, Apache Druid, Apache Beam, Medallion Architecture, PySpark
+- **Data Engineering:** ETL Processes, Data Warehousing, Data Modeling, Informatica PowerCenter, Medallion Architecture, PySpark
 - **Databases:** MySQL, PostgreSQL, AzureDB, SQL Server, MongoDB, Cassandra
-- **Big Data Technologies:** Apache Spark, Apache Hadoop, Apache Kafka
+- **Big Data Technologies:** Apache Spark, Apache Hadoop, Apache Kafka, DBT
 - **Cloud Services:** AWS (S3, Redshift, Glue, EMR, EC2, Lambda), Azure (Databricks, Data Lake, Data Factory, Logic Apps, Azure Cosmos DB, ADLS, Azure Synapse Studio, Blob)
 - **Data Visualization & BI:** Tableau, Power BI, Excel, SAS, GCP BigQuery
 - **Data Science & ML:** Logistic Regression, Decision Trees, Random Forests, Linear Regression, ANOVA, Chi-Square, PyTorch, AWS SageMaker
